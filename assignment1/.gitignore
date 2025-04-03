@@ -1,2 +1,4 @@
 *.JSON
 /__pycache__
+package-list.txt
+/bert_robert
