@@ -1,2 +1,4 @@
 *.JSON
 /__pycache__
+review.txt
+reviews.csv
