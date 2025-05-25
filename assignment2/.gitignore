@@ -2,3 +2,5 @@
 /__pycache__
 review.txt
 reviews.csv
+checkpoints
+trainer_output
