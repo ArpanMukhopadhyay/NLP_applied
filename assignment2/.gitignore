@@ -5,3 +5,7 @@ reviews.csv
 checkpoints
 trainer_output
 best-review-generator-model1
+best-review-generator-model_new_rev
+best-review-generator-model_rev_6
+checkpoints_rev6
+checkpoints_new
