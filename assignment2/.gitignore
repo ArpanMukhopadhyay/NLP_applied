@@ -12,3 +12,6 @@ checkpoints_new
 checkpoints_new_a
 best-review-generator-model_new_rev_a
 llama2_qlora_reviews
+llama-review-gen
+llama-review-gen-final
+llama-review-gen-test
